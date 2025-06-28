@@ -1,0 +1,53 @@
+{
+    "name": "testDataIntent",
+    "start": 1751113824522,
+    "stop": 1751113826656,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "a9b973b3-ce28-4dce-a504-e0fdd74ce442",
+    "historyId": "1354aef2a27d78417b4ccea8b27c97f4",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.MainActivityTest.testDataIntent",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.MainActivityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDataIntent"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.MainActivityTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(56)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
